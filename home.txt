@@ -1,2 +1,8 @@
 Hi world this is the first html file 
 h1 tag which is the higher font heading.
+
+Data Analytics course:
+Python
+Excel
+SQL
+NumPy, Pandas, Matplotlib.
